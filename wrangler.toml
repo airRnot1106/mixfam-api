@@ -1,0 +1,3 @@
+name = "mixfam-api"
+main = "src/index.ts"
+compatibility_date = "2023-04-09"
